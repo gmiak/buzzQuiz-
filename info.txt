@@ -1,0 +1,27 @@
+Testa dina kunskaper på spelet "BuzzQuiz" X-GAME.
+_________________________________________________
+
+
+Spelet består på 7 nivåer. Du kommer få en fråga i varje nivå.
+Svarar du rätt då går du vidare till nästa 'level'.
+Du måsta ha rätt på  alla sju frågor för att vinna hela spelet.
+
+Du startar spelet genom att skriva : "python3 adventure.py".
+Du kommer få tre alternativ:
+1. För att starta ett nytt spel.
+2. För att försätta på ett pågående spel
+3. För att se alla tidigare vinare
+
+# Listan av alla kommando som u kan ta nytta av #
+
+  i, info       Skriver ut beskrivning av 'level'.
+  h, hjälp      Skriver ut en lista av de kommandon som du kan göra.
+  fr, fram      Gå framåt till nästa rum, om det är upplåst.
+  ba, bak       Gå bakåt till föregående rum.
+  l, ledtråd    Ge en ledtråd, eller fler om det finns.
+  c, cheat      utför automatiskt alla frågor.
+
+
+
+
+/Joji
